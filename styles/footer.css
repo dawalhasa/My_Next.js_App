@@ -1,0 +1,8 @@
+.footer {
+  bottom: 0;
+  width: 100%;
+  min-height: 100vh;
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+}

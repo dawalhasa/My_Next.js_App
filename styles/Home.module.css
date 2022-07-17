@@ -1,8 +1,15 @@
-
-
 .container {
-  padding: 0 2rem;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
 }
 .homePageTitile {
-  color: magenta;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.pageFooter{
+  width: 100%;
+  min-height: 100vh;
+  margin-bottom: 0;
 }
